@@ -77,9 +77,3 @@ python server.py
 ##### Open 127.0.0.1:5000 in your browser to test your server in action.
 
 ---
-
-### For any problems or queries, open an issue in the issues tab.
-
-#### Aight.
-
-#### Cya.
